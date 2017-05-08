@@ -8,3 +8,7 @@ Samsung s8
 Dell
 Lenova
 Apple
+
+[camers]
+
+Nikon
