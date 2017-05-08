@@ -8,8 +8,11 @@ Samsung s8
 Dell
 Lenova
 Apple
+Toshiba
 
-[camers]
+[camera]
 
 Nikon
 Sony
+Samsung
+
