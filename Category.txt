@@ -1,0 +1,10 @@
+[Mobiles]
+iphone 5s
+iphone 6s
+iphone 7
+Samsung s8
+
+[Laptops]
+Dell
+Lenova
+Apple
